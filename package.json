@@ -1,0 +1,33 @@
+{
+  "name": "breed-health-reference",
+  "version": "1.0.0",
+  "description": "Vet-reviewed breed health predispositions for dogs, cats and small pets: breed → known disease risks → what to screen",
+  "type": "module",
+  "main": "data/breed-health.json",
+  "exports": {
+    ".": "./data/breed-health.json"
+  },
+  "files": [
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "validate": "node scripts/validate.mjs"
+  },
+  "keywords": [
+    "pets",
+    "veterinary",
+    "breeds",
+    "dataset",
+    "dogs",
+    "cats",
+    "rabbits",
+    "birds",
+    "reptiles",
+    "health",
+    "predisposition"
+  ],
+  "author": "BioVet veterinary clinic network (https://bio.vet)",
+  "license": "CC-BY-4.0"
+}

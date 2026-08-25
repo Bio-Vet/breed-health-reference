@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "breed-health-reference: vet-reviewed breed health predispositions for companion animals"
+type: dataset
+authors:
+  - name: "BioVet veterinary clinic network"
+    website: "https://bio.vet"
+license: CC-BY-4.0
+repository-code: "https://github.com/Bio-Vet/breed-health-reference"
+url: "https://bio.vet"
+version: 1.0.0
+date-released: 2026-08-25
