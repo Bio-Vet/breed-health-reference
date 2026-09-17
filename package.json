@@ -1,6 +1,6 @@
 {
   "name": "breed-health-reference",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Vet-reviewed breed health predispositions for dogs, cats and small pets: breed → known disease risks → what to screen",
   "type": "module",
   "main": "data/breed-health.json",
